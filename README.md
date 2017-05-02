@@ -11,3 +11,9 @@ Several of these examples are forked from Daniel Shiffman's node [twitter bot re
 * ```npm init```
 * ```npm install twit --save```
 
+## More up to date bot resources (May 2017)
+
+* Natural language generation library - Tracery by [Kate Compton.](https://github.com/galaxykate?tab=repositories)
+* http://www.crystalcodepalace.com/traceryTut.html
+* http://www.brightspiral.com/tracery/
+* Easy publication workflow: http://cheapbotsdonequick.com/
